@@ -45,14 +45,4 @@ I build retrieval-augmented generation (RAG) systems and LLM-powered products th
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge) ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-## GitHub stats
 
-<div align="center">
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=surske&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=surske&show_icons=true&theme=dark&hide_border=true&bg_color=00000000#gh-dark-mode-only)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surske&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surske&layout=compact&theme=dark&hide_border=true&bg_color=00000000#gh-dark-mode-only)
-
-</div>
